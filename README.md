@@ -4,7 +4,8 @@ Working with wind speed and direction using their u and v vector representations
 
 for those short on patience or time, please consider these formulae:
 
-'''
+'''python
+
 def uv_from_wswd2(ws, wd):
     # source = http://colaweb.gmu.edu/dev/clim301/lectures/wind/wind-uv
     # ws in m/s and wd in decimal degrees
