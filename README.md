@@ -2,7 +2,7 @@
 
 Working with wind speed and direction using their u and v vector representations isn't hard, once you understand WHY certain steps have to be done.
 
-for those short on patience or time, please consider these formulae:
+for those short on patience or time, please consider these functions:
 
 ```python
 
